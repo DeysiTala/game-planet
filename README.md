@@ -33,3 +33,18 @@ Daily Standup
 
 ### Fork
 ![fork](https://trello-attachments.s3.amazonaws.com/59aed6ca24d050e2ffc92e2f/59af6f5529721cd238a09c9d/cf6da6e83591e4dca3aef73233b3f88c/image.png "fork")
+
+### Segundo Sprint:
+
+Mejoras por realizar:
+			Mejorar la letra font google  
+			separacion de secciones  
+			borrar imagen  
+			recortar imagen section estrenos  
+			mejorar el footer  
+			mejorar el sector contact 
+			
+### Fork
+![fork2](https://trello-attachments.s3.amazonaws.com/59aed6ca24d050e2ffc92e2f/59b02a4e9fa44fcc15c33792/8d67fa2e1c9b20e1b8aaafd71179a613/image.png "fork2")
+
+	
