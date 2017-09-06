@@ -1,4 +1,4 @@
-# game-planet
+# Game-Planet
 Desarrollo de una pagina web para Game-Planet
 ## Metodologia de Trabajo
 
@@ -31,3 +31,5 @@ Product Owner realizacion de branch a cada rama del miembro del equipo
 Codigo Review   
 Daily Standup    
 
+### Fork
+![fork](https://trello-attachments.s3.amazonaws.com/59aed6ca24d050e2ffc92e2f/59af6f5529721cd238a09c9d/cf6da6e83591e4dca3aef73233b3f88c/image.png "fork")
