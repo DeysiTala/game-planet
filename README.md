@@ -12,7 +12,7 @@ Como miembros del equipo tenemos :
  			Susy Talavera
 
  ### Scrum Teem: 	
- 			Melanie Ocharan 
+ 			Mariley Condori 
 			Kely Añamuru
 			Abigail de la Flor
 			Melanie Ocharan
