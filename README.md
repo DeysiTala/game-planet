@@ -1,4 +1,4 @@
-# game-planet
+# Game-Planet
 Desarrollo de una pagina web para Game-Planet
 ## Metodologia de Trabajo
 
@@ -12,6 +12,24 @@ Como miembros del equipo tenemos :
  			Susy Talavera
 
  ### Scrum Teem: 	
- 			Melanie Ocharan 
+ 			Mariley Condori 
 			Kely Añamuru
 			Abigail de la Flor
+			Melanie Ocharan
+			Susy Talavera
+## Sprint Planner:
+Nuestro proyecto lo planificamos en 3 sprints, el cual consta de:
+
+### Primer Sprint:
+
+Uso de herramientas para el desarrollo de trabajo en equipo "TRELLO"  
+Designacion de tareas a cada una del miembro del equipo  
+Avanze de las tareas designadas  
+Creacion de ramas por cada una del miembro del equipo  
+Subir cada tarea dada a la rama correspondiente  
+Product Owner realizacion de branch a cada rama del miembro del equipo  
+Codigo Review   
+Daily Standup    
+
+### Fork
+![fork](https://trello-attachments.s3.amazonaws.com/59aed6ca24d050e2ffc92e2f/59af6f5529721cd238a09c9d/cf6da6e83591e4dca3aef73233b3f88c/image.png "fork")
