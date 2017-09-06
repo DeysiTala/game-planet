@@ -1,5 +1,5 @@
 # Game-Planet
-Desarrollo de una pagina web para Game-Planet
+Desarrollo de una pagina web para Game-Planet  
 [Game-Planet](https://Mariley20.github.io/game-planet "Game-Planet").
 ## Metodologia de Trabajo
 
