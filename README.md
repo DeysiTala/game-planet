@@ -1,6 +1,6 @@
 # Game-Planet
 Desarrollo de una pagina web para Game-Planet
-[gh-pages](https://Mariley20.github.io/game-planet "Game-Planet").
+[Game-Planet](https://Mariley20.github.io/game-planet "Game-Planet").
 ## Metodologia de Trabajo
 
 La metodologia del trabajo se usara SCRUM, lo cual cada uno de los miembros del equipo asumira un rol
