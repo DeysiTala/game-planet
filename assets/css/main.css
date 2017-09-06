@@ -5,6 +5,9 @@
 	padding: 0;
 }
 
+body{
+  font-family: 'Baloo Tammudu', cursive;
+}
 /*home*/
 .navbar{
   padding-top: 5px;
@@ -17,6 +20,17 @@
   padding: 0;
   margin-left: 20px;
   margin-top: 10px;
+}
+.logoImg{
+  height: 40px;
+}
+.btnLupa{
+  padding: 4px 8px;
+  margin-bottom: 0;
+  font-size: 16px;
+}
+.mainNav{
+  padding-top: 5px;
 }
 .navbar-toggle{
   background-color: silver;
@@ -56,4 +70,8 @@
     background-size: cover;
     background-repeat: no-repeat;
     padding: 0;
+}
+
+.Carrusel{
+  padding: 0;
 }
