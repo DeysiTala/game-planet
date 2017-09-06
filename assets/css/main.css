@@ -1,11 +1,82 @@
 /*document css*/
+/*Section de home*/
 *{
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
 }
+body{
+  font-family: 'Baloo Tammudu', cursive;
+}
+/*home*/
+.navbar{
+  padding-top: 5px;
+}
+.navbar a{
+  font-weight: bold;
+  font-size: 16px;
+}
+.logo {
+  padding: 0;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.logoImg{
+  height: 40px;
+}
+.btnLupa{
+  padding: 4px 8px;
+  margin-bottom: 0;
+  font-size: 16px;
+}
+.mainNav{
+  padding-top: 5px;
+}
+.navbar-toggle{
+  background-color: silver;
+}
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover{
+  background-color: white;
+}
+.navStore{
+  padding-left: 30px;
+}
+.navbar-form{
+  margin-right: 20px;
+}
 
+.navIcons{
+  color: white;
+  font-size: 22px;
+  padding: 0px 10px;
+}
+/*Video*/
+.contVideo{
+  padding: 0px;
+}
+.videoDiv{
+    padding-top: 30px;
+    padding: 0px;
+}
 
+.videoGame {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    z-index: -100;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0;
+}
+
+.Carrusel{
+  padding: 0;
+}/* fin de section home*/
+
+/* --- section fotter ---*/
 .pie-de-pagina li {
 	list-style: none;
 	color: white;
@@ -37,4 +108,4 @@ footer{
 	background-color: black;
 	color: white;
 }
-
+/*fin de section fotter*/
